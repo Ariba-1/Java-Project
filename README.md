@@ -66,7 +66,6 @@ This project demonstrates:
 ## 📂 Project Info
 
 - **Developer:** Ariba Arif  
-- **Enrollment:** 63742  
 - **Program:** BS Software Engineering
 
 ---
